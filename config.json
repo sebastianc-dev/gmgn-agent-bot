@@ -1,0 +1,5 @@
+{
+  "gmgn_api_key": "your_gmgn_api_key_here",
+  "wallet_address": "your_solana_wallet_address_here",
+  "buy_amount_sol": 0.5
+}
